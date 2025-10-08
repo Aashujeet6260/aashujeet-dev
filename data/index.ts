@@ -43,7 +43,7 @@ export const DATA = {
       name: "Aashujeet Rai",
       title: "Full Stack Developer",
       image:
-        "/images/profile/profile.jpg",
+        "/images/Profile/profile.jpg",
       description: [
         "I'm a creative full-stack developer with a passion for developing LLM Model Based-Agents and clean code. I focus on building beautiful, functional, and high-performance websites and web apps.",
         "My approach is both technical and aesthetic — I enjoy turning complex problems into elegant user experiences. I work primarily with modern frameworks like React, Vite, and TailwindCSS.",
